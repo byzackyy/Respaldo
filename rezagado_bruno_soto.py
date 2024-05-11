@@ -209,6 +209,7 @@ while menu_dulces_encantos:
                     print(f"CANTIDAD DE PRODUCTOS {CANTIDAD_PRODUCTOS}")
                     print("Gracias Por su compra :D")
                     tiempo_leer()
+                    break
 
                 else:
                     TOTAL_PAGAR = SUBTOTAL - SUBTOTAL*DESCUENTO/100
@@ -217,6 +218,7 @@ while menu_dulces_encantos:
                     print(f"CANTIDAD DE PRODUCTOS {CANTIDAD_PRODUCTOS}")
                     print("Gracias Por su compra :D")
                     tiempo_leer()
+                    break
 
 
                 
